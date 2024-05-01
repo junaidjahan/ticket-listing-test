@@ -65,6 +65,6 @@ interface Props {
     ticketInfo: TicketInfo
 }
 import { BaseChip } from "@/components/base"
-import { type TicketInfo } from "../types"
+import { type TicketInfo } from "@/types/ticket-listing.types"
 defineProps<Props>()
 </script>
