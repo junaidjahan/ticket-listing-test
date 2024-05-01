@@ -25,7 +25,7 @@
 
 ## Demo
 
-https://ticket-listing.netlify.app/ticket-listing
+https://ticket-listing.netlify.app/
 
 ## Tech stack
 
